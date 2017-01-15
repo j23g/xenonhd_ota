@@ -6,15 +6,15 @@
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download the latest build">https://www.dropbox.com/s/uq6dfs2d41lft9k/XenonHD-170114-Unofficial-i9100.zip?dl=1</RomUrl>
+                description="Download the latest build">https://www.dropbox.com/s/cwyjzeas1mlpjbr/XenonHD-170114-Unofficial-i9100.zip?dl=1</RomUrl>
             <MD5Url
                 id="md5"
                 title="MD5"
-                description="Download MD5 of the latest build">https://www.dropbox.com/s/hb0cc3jo6fb9zp3/XenonHD-170114-Unofficial-i9100.zip.md5sum?dl=1</MD5Url>
+                description="Download MD5 of the latest build">https://www.dropbox.com/s/ifrlm8pua1k08ct/XenonHD-170114-Unofficial-i9100.zip.md5sum?dl=1</MD5Url>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View the latest changelog">https://mirrors.c0urier.net/android/teamhorizon/Changelog.txt</ChangelogUrl>
+                description="View the latest changelog">https://www.dropbox.com/s/413rdsjoztr5wlb/Changelog.txt?dl=1</ChangelogUrl>
             <OpenGappsUrl
                 id="opengapps"
                 title="Open Gapps"
