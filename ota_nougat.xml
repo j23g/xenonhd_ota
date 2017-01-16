@@ -14,11 +14,15 @@
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View the latest changelog">https://www.dropbox.com/s/413rdsjoztr5wlb/Changelog.txt?dl=1</ChangelogUrl>
+                description="View the latest changelog">https://makorn645.xyz/i9100/Changelog.txt</ChangelogUrl>
             <OpenGappsUrl
                 id="opengapps"
                 title="Open Gapps"
-                description="Download Open Gapps">http://opengapps.org</OpenGappsUrl>
+                description="Download Gapps">http://opengapps.org</OpenGappsUrl>
+	    <XDAUrl 
+                id="xda" 
+                title="XDA" 
+                description="Visit xda thread">https://forum.xda-developers.com/galaxy-s2/development-derivatives/rom-xenonhd-unofficial-t3538333</XDAUrl> 
         </i9100>
     </Stable>
 </XenonOTA>
