@@ -2,19 +2,19 @@
 <XenonOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <i9100>
-            <Filename>XenonHD-170120-Unofficial</Filename>
+            <Filename>XenonHD-170125-Official</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download the latest build">https://www.dropbox.com/s/k2vc5jbz9rv62aa/XenonHD-170120-Unofficial-i9100.zip?dl=1</RomUrl>
+                description="Download the latest build">https://mirrors.c0urier.net/android/teamhorizon/N/Official/i9100/XenonHD-170125-Official-i9100.zip</RomUrl>
             <MD5Url
                 id="md5"
                 title="MD5"
-                description="Download MD5 of the latest build">https://www.dropbox.com/s/bfph528jct6pbhq/XenonHD-170120-Unofficial-i9100.zip.md5sum?dl=1</MD5Url>
+                description="Download MD5 of the latest build">https://mirrors.c0urier.net/android/teamhorizon/N/Official/i9100/XenonHD-170125-Official-i9100.zip.md5sum</MD5Url>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View the latest changelog">https://makorn645.xyz/i9100/Changelog.txt</ChangelogUrl>
+                description="View the latest changelog">https://mirrors.c0urier.net/android/teamhorizon/N/Official/i9100/Changelog.txt</ChangelogUrl>
             <OpenGappsUrl
                 id="opengapps"
                 title="Open Gapps"
