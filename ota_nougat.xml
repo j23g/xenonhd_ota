@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <XenonOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
-        <i9100>
+        <j200h>
             <Filename>XenonHD-170125-Official</Filename>
             <RomUrl
                 id="rom"
@@ -23,6 +23,6 @@
                 id="xda" 
                 title="XDA" 
                 description="Visit xda thread">https://forum.xda-developers.com/galaxy-s2/development-derivatives/rom-xenonhd-unofficial-t3538333</XDAUrl> 
-        </i9100>
+        </j200h>
     </Stable>
 </XenonOTA>
